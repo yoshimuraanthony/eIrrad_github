@@ -1,0 +1,20 @@
+axes.titlesize: 20
+axes.labelsize: 20
+
+lines.linewidth: 2
+lines.markersize: 10
+
+xtick.labelsize: 14
+ytick.labelsize: 14
+
+axes.grid: True
+legend.fontsize: 14
+
+savefig.dpi: 300
+
+axes.spines.top: True
+axes.spines.right: True
+
+axes.edgecolor: black
+
+figure.autolayout: True  # When True, use tight_layout()
